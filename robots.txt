@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /contact
+Allow: /about
+Allow: /legal
+Allow: /privacy
+Sitemap: https://www.assessdyslexia.com/sitemap.xml
